@@ -8,7 +8,7 @@ Figma 디자인 시스템
 
 ### 작례 파일
 
-[Design System Starting Point]()
+[Design System Starting Point](https://www.figma.com/community/file/1452169657370831590/)
 
 ### 참고 링크
 
@@ -31,7 +31,7 @@ Figma 디자인 시스템
 
 ### 작례 파일
 
-[Web Design Example]()
+[Web Design Example](https://www.figma.com/community/file/1452170252538242793/)
 
 ### 참고 링크
 
